@@ -1,24 +1,36 @@
-### Hi there 👋
+### Hi there, I’m [Akif][website] 👋
 
 <!--
-**AkifManzoor124/AkifManzoor124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**adil/adil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-My name is Akif Manzoor and I am a software developer currently learning all about full stack development. I am from Pakistan and currently a student at the University fo Ottawa. 
+Here are some ideas to get you started:
 
-## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinHeinz&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MartinHeinz&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
-</a>
-
-<a href="https://github.com/MartinHeinz/python-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 -->
 
+## A little about me
+- 🔭 I’m currently working on FullStackOpen
+- 🌱 I’m currently learning Full-Stack Development
+- 💬 Ask me about my recent projects
+- 📫 How to reach me: akifmanzoor124@gmail.com
+
+### Connect with me:
+
+[<img align="left" alt="akif-manzoor" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="akif-manzoor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+## <br />
+
+<img align="left" alt="Akif's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AkifManzoor124&show_icons=true&hide_border=true" />
+
+<img align="left" alt="Akif's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkifManzoor124&show_icons=true&hide_border=true" />
+
+[linkedin]: https://www.linkedin.com/in/akif-manzoor/
+[website]: https://akifmanzoor124.github.io/

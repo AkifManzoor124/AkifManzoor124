@@ -21,11 +21,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about my recent projects
 - 📫 How to reach me: akifmanzoor124@gmail.com
 
-### Connect with me:
-
-[<img align="left" alt="akif-manzoor" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="akif-manzoor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
 ## <br />
 
 <img align="left" alt="Akif's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AkifManzoor124&show_icons=true&hide_border=true" />

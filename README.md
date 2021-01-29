@@ -14,7 +14,7 @@
 <!-- https://github.com/AkifManzoor124/github-readme-streak-stats -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkifManzoor124&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
   </a>
   <br/>
   🔥 Get streak stats for your profile 👉 <a href="http://git.io/streak-stats">git.io/streak-stats</a>
@@ -76,19 +76,17 @@
 [linkedin]: https://www.linkedin.com/in/akif-manzoor/
 [website]: https://akifmanzoor124.github.io/
 
+<!-- https://github.com/jamesgeorge007/github-activity-readme -->
+
 ## 📈 Github Stats
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <details>
   <summary>📊 GitHub Profile Stats</summary>
   <br/>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" alt="Akif's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AkifManzoor124&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=0D1117" />
-</a>
-  </a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" alt="Akif's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AkifManzoor124&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=0D1117" /></a>
 </details>
 
-<br/>
 <details> 
   <summary>💻 Most used languages</summary>
   <br/>
@@ -101,3 +99,16 @@
 
 
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
+<details>
+  <summary>⚡ Recent GitHub Activity</summary>
+  <br/>
+
+<!--START_SECTION:activity-->
+1. ❗️ Opened issue [#25](https://github.com/DenverCoder1/github-readme-streak-stats/issues/25) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+2. ❗️ Opened issue [#24](https://github.com/DenverCoder1/github-readme-streak-stats/issues/24) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+3. 🎉 Merged PR [#23](https://github.com/DenverCoder1/github-readme-streak-stats/pull/23) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+4. ❗️ Closed issue [#22](https://github.com/DenverCoder1/github-readme-streak-stats/issues/22) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+5. 💪 Opened PR [#23](https://github.com/DenverCoder1/github-readme-streak-stats/pull/23) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+<!--END_SECTION:activity-->
+
+</details>

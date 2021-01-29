@@ -11,7 +11,7 @@
 
 ## 🔥 My contribution streak
 
-<!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
+<!-- https://github.com/AkifManzoor124/github-readme-streak-stats -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
@@ -73,10 +73,6 @@
     </tbody>
 </table>
 
-<!-- https://github.com/gautamkrishnar/blog-post-workflow -->
-
-[<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/c/DevProTips?sub_confirmation=1)
-
 ## 📈 Github Stats
 
 [linkedin]: https://www.linkedin.com/in/akif-manzoor/
@@ -96,8 +92,4 @@
   <br/>
   <b>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.
 </details>
-
-
-</details>
-
-## <br />
+<br />

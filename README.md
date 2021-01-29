@@ -88,6 +88,7 @@
   </a>
 </details>
 
+<br/>
 <details> 
   <summary>💻 Most used languages</summary>
   <br/>

@@ -97,16 +97,3 @@
   <b>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.
 </details>
 <!--END_SECTION:languages-->
-
-<!--START_SECTION:activity-->
-<details>
-  <summary>⚡ Recent GitHub Activity</summary>
-  <br/>
-1. ❗️ Opened issue [#25](https://github.com/DenverCoder1/github-readme-streak-stats/issues/25) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-2. ❗️ Opened issue [#24](https://github.com/DenverCoder1/github-readme-streak-stats/issues/24) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-3. 🎉 Merged PR [#23](https://github.com/DenverCoder1/github-readme-streak-stats/pull/23) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-4. ❗️ Closed issue [#22](https://github.com/DenverCoder1/github-readme-streak-stats/issues/22) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-5. 💪 Opened PR [#23](https://github.com/DenverCoder1/github-readme-streak-stats/pull/23) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-<!--END_SECTION:activity-->
-
-</details>

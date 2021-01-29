@@ -86,7 +86,9 @@
   <br/>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" alt="Akif's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AkifManzoor124&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=0D1117" /></a>
 </details>
+<!-- https://github.com/jamesgeorge007/github-activity-readme -->
 
+<!--START_SECTION:languages-->
 <details> 
   <summary>💻 Most used languages</summary>
   <br/>
@@ -96,9 +98,8 @@
   <br/>
   <b>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.
 </details>
+<!--END_SECTION:languages-->
 
-
-<!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <details>
   <summary>⚡ Recent GitHub Activity</summary>
   <br/>

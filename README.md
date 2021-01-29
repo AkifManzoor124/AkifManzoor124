@@ -79,12 +79,10 @@
 [website]: https://akifmanzoor124.github.io/
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-  <summary>📊 GitHub Profile Stats</summary>
-  <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" alt="Akif's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AkifManzoor124&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=0D1117" /></a>>
+<summary>📊 GitHub Profile Stats</summary>
+<br/>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" alt="Akif's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AkifManzoor124&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=0D1117" /></a>>
 
-<br />
-<summary>💻 Most used languages</summary>
 <br/>
 <a href="https://github.com/anuraghazra/github-readme-stats">  <img align="left" alt="Akif's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkifManzoor124&langs_count=10&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" /></a>
 <br/>

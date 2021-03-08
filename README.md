@@ -2,14 +2,14 @@
 
 <h3 align="center">Hey there, I'm Akif Manzoor <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
 
-## 📖 About me
+## 📖 About Me
 
 * 💻 I'm a full stack web developer
 * 🎨 I'm a self-taught UI designer
 * 📱 I make apps for Android and iOS
 * 🎓 I'm a Computer Engineering student (graduating in Dec 2021)
 
-## 🔥 My contribution streak
+## 🔥 My Contribution Streak
 
 <!-- https://github.com/AkifManzoor124/github-readme-streak-stats -->
 <p align="center">
